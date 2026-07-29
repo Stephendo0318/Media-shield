@@ -1,0 +1,11 @@
+{
+    "name": "Media-Shield",
+    "description": "Hide and block unwanted media, links, and embeds.",
+    "authors": [
+        {
+            "name": "MoistMozzarella",
+            "id": "0"
+        }
+    ],
+    "main": "src/index.ts"
+}
